@@ -1,7 +1,6 @@
-.calendar{
-     width: 100%;
-}
+
 table, th, td{
+    height:50px;
     box-shadow: 0.5px 0.5px black, 0.5em 0 0.7em black, -0.5em 0 0.7em black;
     background-color: #F2F2F2;
     margin-top: 5rem;
@@ -22,4 +21,11 @@ body{
 }
 selected{
     color:white;
+            box-shadow: 0.5px 0.5px black, 0.5em 0 0.7em black, -0.5em 0 0.7em black;
+}
+h1{
+    opacity:0.7;
+    text-align: center;
+background-color: #F2F2F2;
+        box-shadow: 0.5px 0.5px black, 0.5em 0 0.7em black, -0.5em 0 0.7em black;
 }

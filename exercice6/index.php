@@ -11,7 +11,7 @@ $numberDays = cal_days_in_month(CAL_GREGORIAN, 2, 2016)
    <body>
      <p>
        <?php
-       echo $numberDays;
+       echo 'Il y a ' . $numberDays . ' jours dans le mois de Février en 2016   .';
         ?>
      </p>
    </body>
